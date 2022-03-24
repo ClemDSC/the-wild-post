@@ -872,7 +872,7 @@ p.projects:first-letter {
     gap: 1rem;
   }
   .wild-items {
-    width: 100%;
+    min-width: 100%;
     gap: 1rem;
   }
   .scrum-title {
